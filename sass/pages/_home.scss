@@ -18,3 +18,18 @@
         transform: skewY(7deg);
     }
 }
+
+.section-tours {
+    background-color: $color-white;
+    margin-top: 13rem;
+    height: 130vh;
+    display: flex;
+    flex-direction: column;
+    &__cards {
+        display: flex;
+        justify-content: space-between;
+        height: 70%;
+    }
+    
+
+}
