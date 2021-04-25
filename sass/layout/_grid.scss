@@ -10,5 +10,12 @@
 
 .col-1-of-3{
     flex-basis: 50%;
-   
+}
+
+.stories__grid {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+
 }
